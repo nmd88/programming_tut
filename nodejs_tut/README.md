@@ -316,38 +316,3 @@ You can find the most famous Node.js developer at [Nodemavens](http://nodemavens
 ## Credits
 
 Inspired by amazing [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
-
-## Contributors
-
-- [Eugene Tsypkin](https://github.com/jhony-chikens)
-- [Pavel Voronin](https://github.com/voroninpaul)
-- [jacksongeller](https://github.com/jacksongeller)
-- [Pana Wang](https://github.com/Pana)
-- [Stephen Keep](https://github.com/stephenkeep)
-
-  [co]: https://github.com/visionmedia/co
-
-## License
-
-(The MIT License)
-
-Copyright (c) 2014 Sergey Titov
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-'Software'), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
-TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
